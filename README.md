@@ -40,7 +40,7 @@ Desarrollar una aplicación web utilizando Node.js y Express que permita realiza
 ### 8. Integración con APIs
 - API Externa: Integrar una o más APIs RESTful externas en la aplicación para agregar funcionalidades adicionales.
 
-##Entrega:
+## Entrega:
 Código fuente: El código fuente completo de la aplicación web, incluyendo los archivos .env y .gitignore.
 Documentación: Incluir documentación que explique la estructura del proyecto, las tecnologías utilizadas y las instrucciones para ejecutar la aplicación, incluyendo la configuración de variables de entorno.
 Video: Video de presentación y defensa del proyecto (solo para quienes no presenten en clase).
